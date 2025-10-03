@@ -10,9 +10,9 @@ async function getJoke() {
 };
 
 async function cowsays() {
-  const chiste = await getJoke();
+  const joke = await getJoke();
   const meme = cowsay.say({
-    text: chiste,
+    text: joke,
     e: "^^",
     T: "U "
   });
