@@ -1,4 +1,11 @@
-# Documentación: DadJokes
+```
+  ____            _     _       _
+ |  _ \  __ _  __| |   | | ___ | | _____  ___
+ | | | |/ _` |/ _` |_  | |/ _ \| |/ / _ \/ __|
+ | |_| | (_| | (_| | |_| | (_) |   <  __/\__ \
+ |____/ \__,_|\__,_|\___/ \___/|_|\_\___||___/
+
+```
 
 ## 📋 Descripción del Proyecto
 
@@ -185,4 +192,10 @@ Este proyecto combina efectivamente:
 - **Aleatoriedad** para experiencias únicas en cada ejecución
 - **Presentación visual atractiva** en terminal
 
-Ideal como ejemplo educativo de cómo integrar múltiples tecnologías para crear una aplicación funcional y entretenida.
+
+
+
+
+
+
+
