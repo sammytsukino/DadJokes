@@ -1,11 +1,6 @@
-```
-  ____            _     _       _
- |  _ \  __ _  __| |   | | ___ | | _____  ___
- | | | |/ _` |/ _` |_  | |/ _ \| |/ / _ \/ __|
- | |_| | (_| | (_| | |_| | (_) |   <  __/\__ \
- |____/ \__,_|\__,_|\___/ \___/|_|\_\___||___/
 
-```
+![Ejemplo de salida del programa](https://res.cloudinary.com/dsy30p7gf/image/upload/v1759682005/dadjokes_vnj0sv.png)
+---
 
 ## 📋 Descripción del Proyecto
 
