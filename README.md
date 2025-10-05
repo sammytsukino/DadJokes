@@ -173,10 +173,7 @@ console.log(randomGradient2(meme));
 ---
 
 ## 🎨 Ejemplo de Salida
-
-
-
-
+![Ejemplo de salida del programa](https://res.cloudinary.com/dsy30p7gf/image/upload/v1759681018/cowsays_na4rem.png)
 ---
 
 ## ✅ Conclusión
